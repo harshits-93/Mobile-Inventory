@@ -1,0 +1,59 @@
+<resources>
+    <!-- Name for the application [CHAR LIMIT=12] -->
+    <string name="app_name">Inventory App</string>
+
+    <!-- Label for overflow menu option that inserts fake mobile data into the app [CHAR LIMIT=20] -->
+    <string name="action_insert_dummy_data">Insert Dummy Data</string>
+
+    <!-- Label for overflow menu option that deletes all mobile data in the app [CHAR LIMIT=20] -->
+    <string name="action_delete_all_entries">Delete All mobiles</string>
+
+    <!-- Title for the activity to add a new mobile [CHAR LIMIT=20] -->
+    <string name="editor_activity_title_new_mobile">Add a Mobile</string>
+
+    <!-- Title for the activity to edit an available mobile [CHAR LIMIT=20] -->
+    <string name="editor_activity_title_edit_mobile">Edit Mobile</string>
+
+    <!-- Label for editor menu option to save mobile and leave editor [CHAR LIMIT=20] -->
+    <string name="action_save">Save</string>
+
+    <!-- Label for editor overflow menu option that deletes the current mobile[CHAR LIMIT=20] -->
+    <string name="action_delete">Delete</string>
+
+    <!-- Label for overview category of attributes in the editor [CHAR LIMIT=30] -->
+    <string name="category_overview">Overview</string>
+
+    <!-- Label for Quantity information in the editor [CHAR LIMIT=30] -->
+    <string name="category_quantity">Quantity</string>
+
+    <!-- Label for Price information in the editor [CHAR LIMIT=30] -->
+    <string name="category_price">Price</string>
+
+    <!-- Label for Supplier category of attributes in the editor [CHAR LIMIT=30] -->
+    <string name="category_supplier">Supplier</string>
+
+    <!-- Text hint for name field in the editor [CHAR LIMIT=30] -->
+    <string name="hint_mobile_name">Name</string>
+
+    <!-- Text hint for brand field in the editor [CHAR LIMIT=30] -->
+    <string name="hint_mobile_brand">Brand</string>
+
+    <!-- Text hint for supplier name field in the editor [CHAR LIMIT=30] -->
+    <string name="hint_supplier_name">Supplier name</string>
+
+    <!-- Text hint for supplier email field in the editor [CHAR LIMIT=30] -->
+    <string name="hint_supplier_email">Supplier email</string>
+
+    <!-- Text hint for name field in the editor [CHAR LIMIT=30] -->
+    <string name="hint_mobile_price">Price</string>
+
+    <!-- Units for price of the mobile (Rupees) [CHAR LIMIT=5] -->
+    <string name="unit_mobile_price">Rs</string>
+
+    <!-- Label for Order button in the editor [CHAR LIMIT=30] -->
+    <string name="button_order">Order</string>
+
+    <!-- Label for Delete button in the editor [CHAR LIMIT=30] -->
+    <string name="button_delete">Delete</string>
+
+</resources>
